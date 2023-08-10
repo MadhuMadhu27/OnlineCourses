@@ -1,0 +1,92 @@
+Python is a powerful, high-level, and widely used programming language. We may create apps utilising an Object-Oriented methodology thanks to it. Classes and objects are simple to build and utilise in Python. By doing so, it concentrates on creating reusable code. Making things is a common approach to issue-solving. All cutting-edge software development, machine learning applications, and web development employ the most recent Python 3 version. It is a good toolkit for both new and seasoned programmers who are familiar with languages like C++ and Java.
+
+In essence, Python is not a fully object-oriented programming language like Java or some other ones. This means that Python has dependable, concise syntax and provides the oops notion with or without any issues. It also provides the following benefits to the coder.
+
+
+•	Easy to Learn & Code
+•	Free and High-Level Language
+•	Portable
+•	Large Collection of Packages and Modules 
+
+
+
+Why the object-oriented (oops) concept?
+Then why do we need Oops in Python when everything is working properly? After all, as we all know, oops (object-oriented programming) also offers some advantages to programming languages like:
+
+
+•	Modularity for simpler problem-solving
+•	Reusing code by inheriting it
+•	Adaptability via polymorphism
+•	Successful problem-solving, etc.
+
+These ideas elevate Python to a more distinctive, well-known, and contemporary language. Let's begin an in-depth study of how Python's Oops pillars function. Check out the Python course online to learn more about the Oops concept.
+
+Oops Concept
+Python is a great programming language that supports Object-Oriented Programming systems and is called OOPS.
+
+
+•	Class 
+•	Objects
+•	Encapsulation
+•	Inheritance
+•	Polymorphism
+•	Abstraction 
+
+Python Class 
+A class is a group of related items. The models or prototypes used to generate objects are included in classes. It is a logical entity with a few methods and characteristics. 
+
+Let's use an example to help you understand why classes are necessary. Suppose you wanted to keep track of the number of dogs that might have diverse characteristics like breed and age. If a list is utilised, the dog's breed and age might be the first and second elements, respectively. What if there were 100 different breeds of dogs? How would you know which ingredient should go where? What if you wanted to give these dogs additional traits? This is disorganised and just what classes need.
+
+Some points on Python class:  
+•	The term class is used to create classes.
+•	The variables that make up a class are known as attributes.
+•	With the dot (.) operator, attributes can always be retrieved and are always public. For example: Myclass.Myattribute 
+
+Objects in Python
+The object is an entity that is connected to a state and activity. Any physical device, such as a mouse, keyboard, chair, table, pen, etc., may be used. Arrays, dictionaries, strings, floating-point numbers, and even integers are all examples of objects. Any single string or integer, more specifically, is an object. A list is an object that may house other things, the number 12 is an object, the text "Hello, world" is an object, and so on. You may not even be aware of the fact that you have been using items.
+
+An object includes:
+•	State: An object's properties serve as a representation of it. Additionally, it reflects an object's characteristics.
+•	Behaviour: The methods of an object serve as a representation of behaviour. It also shows how one object reacts to other objects.
+•	Identity: It gives a thing a special name and makes it possible for one object to communicate with another.
+
+
+
+Let's use the example of the class dog (described above) to better grasp the state, behaviour, and identity. 
+
+
+•	The identity may be regarded as the dog's name.
+•	Breed, age, and colour of the dog are examples of states or attributes.
+•	You may infer from the behaviour whether the dog is eating or sleeping.
+
+Encapsulation
+It explains the concept of data wrapping and the techniques that operate on data as a single unit. This restricts direct access to variables and procedures and can avoid data alteration by accident. A variable can only be altered by an object's method in order to prevent inadvertent modification. These variables fall under the category of private variables.
+A class, which encapsulates all the data that is contained in its member functions, variables, etc., is an example of encapsulation.
+
+
+Inheritance
+One class's ability to derive or inherit properties from another class is known as inheritance. 
+
+The advantages of inheritance include: 
+•	It accurately depicts relationships in the real world.
+•	It offers a code's reusability. We don't need to keep writing the same code. It enables us to expand a class's functionalities without changing the class itself.
+•	Because it is transitive, if class B inherits from additional class A, all of class B's subclasses will also automatically inherit from class A.
+
+Types of Inheritance
+•	Single Inheritance: A derived class may take traits from a single-parent class through single-level inheritance.
+•	Multi-level Inheritance: A derived class can inherit properties from an immediate parent class, which in turn inherits properties from his or her parent class. 
+•	Hierarchical Inheritance: More than one derived class can inherit properties from a parent class thanks to hierarchical-level inheritance.
+•	Multiple Inheritances: A derived class can inherit properties from multiple base classes thanks to multiple-level inheritance.
+
+Abstraction
+Abstraction is used to conceal from users the internal workings of a function. Users can only interact with the function's fundamental implementation; its secret inner workings. Although the user is aware of "what function does," they are unaware of "how it does."
+
+Polymorphism
+Polymorphism refers to the existence of various forms. Polymorphism in programming refers to the usage of various types with different signatures for the same function.
+
+
+Conclusion 
+
+If you are a Python programmer, you can learn more about the OOPS concept by checking out the online Python course.
+
+Tags: #onlinecertificatepython #bestpythononlinetraining #Toptenonlinetrainingpython #PythonCourseOnline #PythonCertificationCourse
